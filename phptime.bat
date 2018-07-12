@@ -1,0 +1,1 @@
+D:\phpStudy\php55n\php.exe -q D:\www\Eric\Server\cgyyg1.0\timeRun.php

@@ -1,0 +1,303 @@
+[ 2016-04-12T11:12:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-12T11:35:40+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0156s ]
+
+[ 2016-04-12T11:36:25+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-12T11:37:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0000s ]
+SQL: SELECT sum(attend_count) as total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-12T11:37:21+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0000s ]
+SQL: SELECT sum(attend_count) as total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-12T14:02:59+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0050s ]
+
+[ 2016-04-12T14:03:56+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0050s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T14:34:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0060s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T14:34:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0070s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:34:54+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/hotList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-12T15:44:54+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0050s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:45:35+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0110s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:45:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0060s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:49:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0110s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:49:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0100s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T15:49:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_attend` [ RunTime:0.0050s ]
+SQL: SELECT sum(attend_count) as last_attend_total FROM `os_lottery_attend` WHERE ( uid=10000251 and lottery_id=1000000120 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: uid D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: lottery D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: i D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: attend_date_time D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: attend_count D:\www\cgyyg1.0\Application\Home\Controller\UcenterLotteryController.class.php 第 24 行.
+
+[ 2016-04-12T16:06:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/UcenterLottery/lotteryRecord
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-12T17:28:11+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-12T21:35:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-12T21:35:27+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-12T21:35:52+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\UserController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\UserController.class.php 第 27 行.
+
+[ 2016-04-12T21:36:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-12T21:44:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-04-12T21:50:39+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-12T22:09:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-12T22:09:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

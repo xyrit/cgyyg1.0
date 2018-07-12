@@ -1,0 +1,12 @@
+[ 2016-04-11T13:37:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+

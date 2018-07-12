@@ -1,0 +1,22 @@
+Addons目录：用于存放第三方接口和插件 
+           Cqssc 获取时时彩接口 
+           Message 云通讯发送短信接口
+           OtherLogin qq登录，新浪微博登录官方接口
+           VerfyCode 图形验证码生成接口
+Home目录：用于存放橙果1元购PC端的接口
+          Common 用于存放项目通用工具类接口
+          Conf 项目配置信息
+          Controller 接口控制器
+          Model 接口数据模型操作
+ThinkPHP: php开发框架3.2.3
+
+更新项目后台步骤问题
+1.更改Common/config.php DB_HOST,DB_USER,DB_PWD,HOST
+2.更改index.php windows系统 RUNTIME_PATH改为D:/WWW/cgyygRunTime/ linux系统RUNTIME_PATH改为/home/cgyygRunTime/ 注意正式上线需要把 APP_DEBUG改为FALSE
+3.更改timeRun.php $cache_url,CURLOPT_URL
+4.更改Addons/upload/get.php $callback_body = '{"callbackUrl":"http://test.cgyyg.com/cgyyg1.0/index.php/Home/Callback/index?id='.$dpid.'&type='.$type.'","callbackHost":"test.cgyyg.com","callbackBody":"filename=${object}&size=${size}&mimeType=${mimeType}&height=${imageInfo.height}&width=${imageInfo.width}","callbackBodyType":"application/x-www-form-urlencoded"}';
+5.Addons/Cqssc/CqsscApi.class.php需要写入cqssc.txt  必须设置cgyyg1.0可写 chown -R www cgyyg1.0
+6 linux系统必须确保/home/cgyygRunTime/ /home/cgyygAdminRunTime/设置可写  chown -R www /home/cgyygRunTime/ chown -R www /home/cgyygAdminRunTime/ 否则无法写入缓存文件
+
+更新项目前台步骤问题
+修改js/data/common.js 

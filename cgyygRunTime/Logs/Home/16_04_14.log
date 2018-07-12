@@ -1,0 +1,617 @@
+[ 2016-04-14T21:47:09+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-14T21:47:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T21:48:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T21:48:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ÕâÊÇÔÚÖ÷»úÃû½âÎöÊ±Í¨³£³öÏÖµÄÔÝÊ±´íÎó£¬ËüÒâÎ¶×Å±¾µØ·þÎñÆ÷Ã»ÓÐ´ÓÈ¨Íþ·þÎñÆ÷ÉÏÊÕµ½ÏìÓ¦¡£ 
+
+[ 2016-04-14T21:48:58+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-04-14T21:49:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T21:50:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ÕâÊÇÔÚÖ÷»úÃû½âÎöÊ±Í¨³£³öÏÖµÄÔÝÊ±´íÎó£¬ËüÒâÎ¶×Å±¾µØ·þÎñÆ÷Ã»ÓÐ´ÓÈ¨Íþ·þÎñÆ÷ÉÏÊÕµ½ÏìÓ¦¡£ 
+
+[ 2016-04-14T21:50:25+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ÕâÊÇÔÚÖ÷»úÃû½âÎöÊ±Í¨³£³öÏÖµÄÔÝÊ±´íÎó£¬ËüÒâÎ¶×Å±¾µØ·þÎñÆ÷Ã»ÓÐ´ÓÈ¨Íþ·þÎñÆ÷ÉÏÊÕµ½ÏìÓ¦¡£ 
+
+[ 2016-04-14T21:51:06+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ÕâÊÇÔÚÖ÷»úÃû½âÎöÊ±Í¨³£³öÏÖµÄÔÝÊ±´íÎó£¬ËüÒâÎ¶×Å±¾µØ·þÎñÆ÷Ã»ÓÐ´ÓÈ¨Íþ·þÎñÆ÷ÉÏÊÕµ½ÏìÓ¦¡£ 
+
+[ 2016-04-14T21:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] PDO::__construct():  D:\www\cgyyg1.0\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ÕâÊÇÔÚÖ÷»úÃû½âÎöÊ±Í¨³£³öÏÖµÄÔÝÊ±´íÎó£¬ËüÒâÎ¶×Å±¾µØ·þÎñÆ÷Ã»ÓÐ´ÓÈ¨Íþ·þÎñÆ÷ÉÏÊÕµ½ÏìÓ¦¡£ 
+
+[ 2016-04-14T21:51:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0100s ]
+SQL: SELECT `uid` FROM `os_member` WHERE ( mobile=18062113532 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: authnum D:\www\cgyyg1.0\Application\Home\Controller\SmsController.class.php ç¬¬ 37 è¡Œ.
+NOTIC: [8] Undefined variable: login_type D:\www\cgyyg1.0\Application\Home\Controller\UserController.class.php ç¬¬ 52 è¡Œ.
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0140s ]
+SQL: INSERT INTO `os_verify` (`cellphone`,`verify`,`creat_time`,`type`) VALUES ('18062113532','4583','1460641903','1') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T21:53:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0080s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+SQL: DELETE FROM `os_verify` WHERE ( cellphone=18062113532 ) [ RunTime:0.0010s ]
+
+[ 2016-04-14T21:53:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+
+[ 2016-04-14T21:54:22+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+
+[ 2016-04-14T21:54:24+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0140s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+
+[ 2016-04-14T21:54:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+
+[ 2016-04-14T21:54:55+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0070s ]
+
+[ 2016-04-14T21:54:56+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+
+[ 2016-04-14T21:55:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0050s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:04+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:05+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0050s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:06+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0070s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0060s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T21:56:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0050s ]
+SQL: SELECT `verify`,`creat_time`,`cellphone` FROM `os_verify` WHERE `verify` = '4583' AND `type` = 1 AND `cellphone` = 18062113532  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\www\cgyyg1.0\Application\Home\Model\MemberModel.class.php ç¬¬ 72 è¡Œ.
+
+[ 2016-04-14T22:15:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-14T22:15:10+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-14T22:15:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:31+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:31+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:31+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:31+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:31+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-14T22:15:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-14T22:15:35+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-14T22:15:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+

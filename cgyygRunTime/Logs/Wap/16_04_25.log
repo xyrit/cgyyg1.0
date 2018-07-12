@@ -1,0 +1,598 @@
+[ 2016-04-25T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:03+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:05+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:05+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:05+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:05+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:06+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:06+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:06+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:06+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:07+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:07+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:07+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:07+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:21+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:22+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:22+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:22+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:23+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:23+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:23+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:23+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:23+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:24+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:32+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:32+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:33+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:33+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:33+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:33+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:33+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:19:34+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:11+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:12+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:12+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:12+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:13+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:13+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:13+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:13+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:13+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:20:14+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+
+[ 2016-04-25T10:21:16+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2016-04-25T10:21:55+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2016-04-25T10:22:58+08:00 ] 192.168.1.250 /cgyyg1.0/wap.php/Attend/attendDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: start_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: end_Time D:\www\cgyyg1.0\Application\Wap\Controller\AttendController.class.php 第 31 行.
+NOTIC: [8] Undefined variable: timeStart D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: timeEnd D:\www\cgyyg1.0\Application\Home\Controller\UcenterController.class.php 第 58 行.
+SQL: SHOW COLUMNS FROM `os_document_product` [ RunTime:0.0000s ]
+SQL: select count(*) as total from(select la.id from  os_lottery_attend as la left join os_lottery_product as lp on la.lottery_id=lp.lottery_id WHERE ((la.uid=10065) and (lp.last_attend_time<1))   group by la.lottery_id ) temp   [ RunTime:0.0312s ]
+SQL: select * from (select max(la.id)as id , la.lottery_id, la.uid,  sum(la.attend_count)as attend_count,d.title ,la.lucky_code,lp.need_count,lp.attend_count as attend_all, p.path,  max(la.create_time)as create_time ,  lp.lottery_code,lp.lottery_time,lp.pid,m.nickname,lp.uid as lp_uid from os_member as m right join os_lottery_attend as la on m.uid=la.uid left join os_lottery_product as lp on la.lottery_id=lp.lottery_id left join os_document as d on lp.pid = d.id  left join os_picture as p on d.cover_id = p.id WHERE ((la.uid=10065) and (lp.last_attend_time<1))  group by la.lottery_id  asc   ) a order by create_time desc limit 0,10;   [ RunTime:0.0312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,1516 @@
+[ 2016-04-18T09:50:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-18T09:50:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_code?session_id=n2tltcuo73j749t520alp45cn4&action=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:50:51+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2016-04-18T09:51:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-04-18T09:51:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.face,m.login,m.uc_uid,m.uc_username FROM os_member as m  WHERE (m. mobile = 18062113537 and password='14e1b600b1fd579f47433b88e8d85291') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: UPDATE `os_member` SET `last_login_time`='1460944275',`last_login_ip`='192.168.1.250',`login`='126',`login_device`='Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',`log_info`='2016041809' WHERE ( uid=10000394 ) [ RunTime:0.0000s ]
+
+[ 2016-04-18T09:51:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `os_slide` [ RunTime:0.0000s ]
+SQL: select s.url,p.path from os_slide s join os_picture p on s.icon=p.id where s.status=1 and p.status=1 and s.place=1 order by s.place limit 6 [ RunTime:0.0156s ]
+SQL: select la.id ,lp.lottery_id,la.create_time,lp.pid from  os_lottery_attend as la  left join os_lottery_product as lp on la.lottery_id=lp.lottery_id WHERE (lp.last_attend_time<1) group by la.create_time desc limit 0,1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_document` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`create_time` FROM `os_document` WHERE ( category_id='56' and display=1 ) ORDER BY id desc LIMIT 3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0156s ]
+SQL: select dp.worth_id,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.worth_id desc limit 8 [ RunTime:0.0156s ]
+SQL: select dp.is_hot_sort,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.is_hot_sort desc limit 8 [ RunTime:0.0000s ]
+SQL: select lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id where d.display = 1 and lp.last_attend_time=0 order by lp.create_time desc limit 8 [ RunTime:0.0000s ]
+SQL: select lp.lottery_id,lp.pid,lp.uid,lp.lottery_time,lp.need_count,sum(la.attend_count) attend_count,d.title,m.nickname,m.face path from os_lottery_product lp join os_lottery_attend la on lp.aid = la.id join os_document d on lp.pid=d.id join os_member m on lp.uid=m.uid group by la.uid,la.lottery_id having sum(la.attend_count)=1 limit 25  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:16+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:16+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-04-18T09:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T09:51:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T09:53:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT mobile FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0000s ]
+
+[ 2016-04-18T09:54:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT mobile FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\VerifyController.class.php ç¬¬ 30 è¡Œ.
+
+[ 2016-04-18T09:54:17+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT mobile FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0156s ]
+
+[ 2016-04-18T09:55:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: authnum D:\www\cgyyg1.0\Application\Home\Controller\SmsController.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: INSERT INTO `os_verify` (`cellphone`,`verify`,`creat_time`,`type`) VALUES ('18062113537','9670','1460944532','3') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:00:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: authnum D:\www\cgyyg1.0\Application\Home\Controller\SmsController.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: INSERT INTO `os_verify` (`cellphone`,`verify`,`creat_time`,`type`) VALUES ('18062113537','9715','1460944844','3') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:02:05+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+ERR: 1054:Unknown column 'status' in 'where clause'
+ [ SQLè¯­å¥ ] : SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=18062113537 and type=3 and  verify=9715 and status=0))
+ERR: 1054:Unknown column 'status' in 'where clause'
+ [ SQLè¯­å¥ ] : SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=18062113537 and type=3 and  verify=9715 and status=0))
+
+[ 2016-04-18T10:03:01+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=18062113537 and type=3 and  verify=9715 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: UPDATE `os_verify` SET `status`='1',`type`='-1' WHERE ( cellphone=18062113537 ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:14:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `uid` FROM `os_member` WHERE ( mobile=15266669999 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: authnum D:\www\cgyyg1.0\Application\Home\Controller\SmsController.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: INSERT INTO `os_verify` (`cellphone`,`verify`,`creat_time`,`type`) VALUES ('15266669999','2574','1460945643','3') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:14:39+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:14:55+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:15:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:15:59+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:17:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:17:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:17:55+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0130s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0010s ]
+
+[ 2016-04-18T10:18:06+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:17+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:18+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:19+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:19+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:19+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:20+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:20+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0156s ]
+
+[ 2016-04-18T10:18:20+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:20+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:20+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:21+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:25+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:41+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:18:49+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:20:39+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:21:52+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:23:51+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:32:22+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=2574 and status=0)) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:32:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/getVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `os_member` WHERE ( mobile=15266669999 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: authnum D:\www\cgyyg1.0\Application\Home\Controller\SmsController.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: INSERT INTO `os_verify` (`cellphone`,`verify`,`creat_time`,`type`) VALUES ('15266669999','8676','1460946750','3') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:32:57+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=8676 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:33:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=8676 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:33:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=8676 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0156s ]
+
+[ 2016-04-18T10:33:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=8676 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mobile=18062113537 )' at line 1
+ [ SQLè¯­å¥ ] : UPDATE `os_member` SET `mobile`='15266669999' WHERE ( uid=10000394and mobile=18062113537 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mobile=18062113537 )' at line 1
+ [ SQLè¯­å¥ ] : UPDATE `os_member` SET `mobile`='15266669999' WHERE ( uid=10000394and mobile=18062113537 )
+
+[ 2016-04-18T10:34:24+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Verify/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0156s ]
+SQL: SELECT max(id) as id,v.verify,v.cellphone,v.creat_time FROM os_verify as v   where id=(select max(id) from os_verify where  (cellphone=15266669999 and type=3 and  verify=8676 and status=0)) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT `mobile` FROM `os_member` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `os_member` SET `mobile`='15266669999' WHERE ( uid=10000394  and mobile=18062113537 ) [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `os_verify` [ RunTime:0.0000s ]
+SQL: UPDATE `os_verify` SET `status`='1',`type`='-1' WHERE ( cellphone=15266669999 ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T10:34:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T10:34:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:33+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0090s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/bind_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT mobile FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: SELECT `qq_openid`,`wb_openid`,`unionid` FROM `os_member` WHERE `mobile` = '15266669999' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:43+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T10:34:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0120s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T10:34:44+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0050s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:52+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/user/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_slide` [ RunTime:0.0156s ]
+SQL: select s.url,p.path from os_slide s join os_picture p on s.icon=p.id where s.status=1 and p.status=1 and s.place=1 order by s.place limit 6 [ RunTime:0.0000s ]
+SQL: select la.id ,lp.lottery_id,la.create_time,lp.pid from  os_lottery_attend as la  left join os_lottery_product as lp on la.lottery_id=lp.lottery_id WHERE (lp.last_attend_time<1) group by la.create_time desc limit 0,1 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_document` [ RunTime:0.0156s ]
+SQL: SELECT `id`,`title`,`create_time` FROM `os_document` WHERE ( category_id='56' and display=1 ) ORDER BY id desc LIMIT 3   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0000s ]
+SQL: select dp.worth_id,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.worth_id desc limit 8 [ RunTime:0.0156s ]
+SQL: select dp.is_hot_sort,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.is_hot_sort desc limit 8 [ RunTime:0.0000s ]
+SQL: select lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id where d.display = 1 and lp.last_attend_time=0 order by lp.create_time desc limit 8 [ RunTime:0.0000s ]
+SQL: select lp.lottery_id,lp.pid,lp.uid,lp.lottery_time,lp.need_count,sum(la.attend_count) attend_count,d.title,m.nickname,m.face path from os_lottery_product lp join os_lottery_attend la on lp.aid = la.id join os_document d on lp.pid=d.id join os_member m on lp.uid=m.uid group by la.uid,la.lottery_id having sum(la.attend_count)=1 limit 25  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:56+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:34:56+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_code?session_id=r6523n0e8ipmj22pa1a7o2qq92&action=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T10:35:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/login?load=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0000s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.face,m.login,m.uc_uid,m.uc_username FROM os_member as m  WHERE (m. mobile = 15266669999 and password='14e1b600b1fd579f47433b88e8d85291') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0156s ]
+SQL: UPDATE `os_member` SET `last_login_time`='1460946907',`last_login_ip`='192.168.1.250',`login`='127',`login_device`='Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0',`log_info`='2016041810' WHERE ( uid=10000394 ) [ RunTime:0.0000s ]
+
+[ 2016-04-18T10:35:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:07+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:08+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0060s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:35:12+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/ucenter/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_member` [ RunTime:0.0050s ]
+SQL: SELECT m.uid,m.nickname,m.sex,m.birthday,m.qq,m.mobile,m.score,m.brokerage,m.red_packet,m.account,m.password,m.face,m.login_type FROM os_member as m  WHERE (m. uid = 10000394) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:57:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `os_slide` [ RunTime:0.0050s ]
+SQL: select s.url,p.path from os_slide s join os_picture p on s.icon=p.id where s.status=1 and p.status=1 and s.place=1 order by s.place limit 6 [ RunTime:0.0020s ]
+SQL: select la.id ,lp.lottery_id,la.create_time,lp.pid from  os_lottery_attend as la  left join os_lottery_product as lp on la.lottery_id=lp.lottery_id WHERE (lp.last_attend_time<1) group by la.create_time desc limit 0,1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `os_document` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`title`,`create_time` FROM `os_document` WHERE ( category_id='56' and display=1 ) ORDER BY id desc LIMIT 3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0050s ]
+SQL: select dp.worth_id,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.worth_id desc limit 8 [ RunTime:0.0050s ]
+SQL: select dp.is_hot_sort,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.is_hot_sort desc limit 8 [ RunTime:0.0040s ]
+SQL: select lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id where d.display = 1 and lp.last_attend_time=0 order by lp.create_time desc limit 8 [ RunTime:0.0010s ]
+SQL: select lp.lottery_id,lp.pid,lp.uid,lp.lottery_time,lp.need_count,sum(la.attend_count) attend_count,d.title,m.nickname,m.face path from os_lottery_product lp join os_lottery_attend la on lp.aid = la.id join os_document d on lp.pid=d.id join os_member m on lp.uid=m.uid group by la.uid,la.lottery_id having sum(la.attend_count)=1 limit 25  [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-18T10:57:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T10:57:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_shopcart` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `os_shopcart` WHERE ( uid=10000394 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T14:31:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0070s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `os_slide` [ RunTime:0.0100s ]
+SQL: select s.url,p.path from os_slide s join os_picture p on s.icon=p.id where s.status=1 and p.status=1 and s.place=1 order by s.place limit 6 [ RunTime:0.0040s ]
+SQL: select la.id ,lp.lottery_id,la.create_time,lp.pid from  os_lottery_attend as la  left join os_lottery_product as lp on la.lottery_id=lp.lottery_id WHERE (lp.last_attend_time<1) group by la.create_time desc limit 0,1 [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `os_document` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`title`,`create_time` FROM `os_document` WHERE ( category_id='56' and display=1 ) ORDER BY id desc LIMIT 3   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0060s ]
+SQL: select dp.worth_id,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.worth_id desc limit 8 [ RunTime:0.0050s ]
+SQL: select dp.is_hot_sort,lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id left join os_document_product dp on dp.id=lp.pid where d.display = 1 and lp.last_attend_time=0 order by dp.is_hot_sort desc limit 8 [ RunTime:0.0040s ]
+SQL: select lp.lottery_id,lp.pid,lp.need_count,lp.attend_count,lp.attend_limit,lp.max_attend_limit,d.title,p.path from os_lottery_product lp join os_document d on lp.pid = d.id left join os_picture p on d.cover_id=p.id where d.display = 1 and lp.last_attend_time=0 order by lp.create_time desc limit 8 [ RunTime:0.0010s ]
+SQL: select lp.lottery_id,lp.pid,lp.uid,lp.lottery_time,lp.need_count,sum(la.attend_count) attend_count,d.title,m.nickname,m.face path from os_lottery_product lp join os_lottery_attend la on lp.aid = la.id join os_document d on lp.pid=d.id join os_member m on lp.uid=m.uid group by la.uid,la.lottery_id having sum(la.attend_count)=1 limit 25  [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T14:31:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T14:31:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0080s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-18T14:31:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T14:31:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/User/verify_code?session_id=o81bghhu4t91ssqbngv47bm1l7&action=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T14:31:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/homePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-18T14:31:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_category` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`name`,`pid`,`title`,`icon` FROM `os_category` WHERE `display` = 1 AND `status` = 1 AND `ismenu` = 1 ORDER BY sort asc  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-18T14:31:37+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Shopcart/listNum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+

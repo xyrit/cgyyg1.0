@@ -1,0 +1,465 @@
+[ 2016-04-13T09:58:12+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T09:58:28+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T09:58:35+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 26 行.
+
+[ 2016-04-13T09:59:03+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 26 行.
+
+[ 2016-04-13T10:00:08+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 26 行.
+
+[ 2016-04-13T10:00:09+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 26 行.
+
+[ 2016-04-13T10:00:09+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: payMethod D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 26 行.
+
+[ 2016-04-13T10:01:08+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:01:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:01:48+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:02:21+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:02:21+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T10:03:01+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:03:01+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T10:03:55+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+NOTIC: [8] Array to string conversion D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 28 行.
+
+[ 2016-04-13T10:03:55+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T10:04:46+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+
+[ 2016-04-13T10:04:46+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T10:05:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined variable: signature D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php 第 27 行.
+
+[ 2016-04-13T10:05:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor/charge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T11:27:53+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T11:29:18+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T15:04:30+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T17:50:11+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T17:50:34+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:50:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:50:40+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:50:42+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:51:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:52:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 73 行.
+
+[ 2016-04-13T17:53:19+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/jubaopay.cer): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 49 行.
+NOTIC: [2] openssl_public_encrypt(): key parameter is not a valid public key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 62 行.
+NOTIC: [2] file_get_contents(jubaopay/shanghu.pfx): failed to open stream: No such file or directory D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 72 行.
+NOTIC: [2] openssl_sign(): supplied key param cannot be coerced into a private key D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 74 行.
+
+[ 2016-04-13T17:58:14+08:00 ] ::1 /cgyyg1.0/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-13T17:58:23+08:00 ] ::1 /cgyyg1.0/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T18:02:59+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T18:03:45+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for dump(), called in D:\www\cgyyg1.0\Application\Home\Controller\PayForController.class.php on line 63 and defined D:\www\cgyyg1.0\ThinkPHP\Common\functions.php 第 831 行.
+NOTIC: [8] Undefined variable: var D:\www\cgyyg1.0\ThinkPHP\Common\functions.php 第 842 行.
+
+[ 2016-04-13T18:04:00+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-04-13T18:05:08+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T18:05:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T18:43:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T18:45:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-13T18:50:35+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-13T18:50:36+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/PayFor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 28 行.
+NOTIC: [2] fclose(): supplied resource is not a valid stream resource D:\www\cgyyg1.0\ThinkPHP\Library\Vendor\Jubaopay\RSA.php 第 29 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

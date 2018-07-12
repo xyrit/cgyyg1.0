@@ -1,0 +1,480 @@
+[ 2016-04-09T14:01:06+08:00 ] 192.168.1.250 /cgyyg1.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-09T14:01:38+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-09T14:02:59+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-09T14:43:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 参数错误或者未定义:action
+
+[ 2016-04-09T14:43:17+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 参数错误或者未定义:action
+
+[ 2016-04-09T14:43:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-09T14:47:23+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/Log/setlog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-09T16:45:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-09T16:46:53+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 73 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 77 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 81 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 82 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 87 行.
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:46:54+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 73 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 77 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 81 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 82 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 87 行.
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:47:10+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 73 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 77 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 81 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 82 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 87 行.
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:47:17+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 73 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 77 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 81 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 82 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 87 行.
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:47:19+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 72 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 73 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 74 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 77 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 81 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 82 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 87 行.
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:52:13+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:52:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:52:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T16:52:16+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge?pay_token=8638b4be9404d9118c78&i1=0.01&i2=10000148S2016040955485751&i3=7d7249140b1b736b5dca7f4d5d0481dc&i4=201604091640074679
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `os_recharge` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_recharge` WHERE `uid` = null AND `charge_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: out_trade_no D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 99 行.
+NOTIC: [8] Undefined variable: total_fee D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 100 行.
+NOTIC: [8] Undefined variable: subject D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: pay D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 102 行.
+
+[ 2016-04-09T21:18:22+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 148 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T21:18:32+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 148 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 151 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 157 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `os_yunpay` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `os_yunpay` WHERE `order_number` = null LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Use of undefined constant repayfor - assumed 'repayfor' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 164 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 191 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 192 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 193 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 194 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 195 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 196 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 197 行.
+
+[ 2016-04-09T21:19:17+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 148 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 151 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 157 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `os_yunpay` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `os_yunpay` WHERE `order_number` = null LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant repayfor - assumed 'repayfor' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 164 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 191 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 192 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 193 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 194 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 195 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 196 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 197 行.
+
+[ 2016-04-09T21:20:01+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 148 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 151 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 155 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 156 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 157 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `os_yunpay` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `os_yunpay` WHERE `order_number` = null LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant repayfor - assumed 'repayfor' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 164 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 168 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `os_lottery_product` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 191 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 192 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 193 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 194 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 195 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 196 行.
+NOTIC: [8] Undefined variable: payinfo D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 197 行.
+
+[ 2016-04-09T22:17:06+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 149 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:17:29+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/repayfor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 149 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:18:02+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:21:01+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:22:11+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:22:48+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:23:14+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:23:27+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:24:30+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
+[ 2016-04-09T22:26:15+08:00 ] 192.168.1.250 /cgyyg1.0/index.php/Home/YunBack/recharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: pay_token D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant recharge - assumed 'recharge' D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 24 行.
+NOTIC: [8] Undefined index: i1 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i2 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+NOTIC: [8] Undefined index: i3 D:\www\cgyyg1.0\Application\Home\Controller\YunBackController.class.php 第 29 行.
+
